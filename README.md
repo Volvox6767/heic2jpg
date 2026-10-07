@@ -1,7 +1,7 @@
 # heic2jpg 📱➡️🖼️
 
 **EN | Convert iPhone HEIC photos to normal JPG — in bulk, offline, no uploads.**
-**TR | iPhone HEIC fotoğraflarını normal JPG'ye çevirir — toplu, çevrimdışı, yükleme yok.**
+**TR | FotoÇevir — iPhone HEIC fotoğraflarını normal JPG'ye çevirir — toplu, çevrimdışı, yükleme yok.**
 
 Your iPhone saves photos as `.HEIC`. Your Windows PC, your web portal, your
 friend's Android — none of them open it. One command converts a whole folder.
